@@ -1,0 +1,21 @@
+email,label
+"Congratulations! You won a prize. Click here to claim now.",Phishing
+"Your bank account is blocked. Verify your password immediately.",Phishing
+"URGENT! Update your account details using this suspicious link.",Phishing
+"You have won a free gift card. Claim your reward today.",Phishing
+"Your account will be suspended. Confirm your banking details.",Phishing
+"Click this link to receive your free money now.",Phishing
+"Your password expires today. Login to verify your account.",Phishing
+"You are selected for a lottery prize. Send your details.",Phishing
+"We detected unusual activity. Verify your identity immediately.",Phishing
+"Claim your reward by clicking this link now.",Phishing
+"Hello, please find the meeting schedule attached.",Safe
+"Your assignment submission was successful.",Safe
+"The project meeting is scheduled for tomorrow.",Safe
+"Thank you for your purchase. Your order is confirmed.",Safe
+"Please review the report before the meeting.",Safe
+"Your appointment is confirmed for Monday.",Safe
+"Here are the notes from today's class.",Safe
+"The monthly newsletter is available on our website.",Safe
+"Your payment receipt is attached to this email.",Safe
+"Please send the project report by Friday.",Safe
